@@ -25,6 +25,8 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+https://github.com/user-attachments/assets/cb0dfe80-dd06-4f98-9588-6920e26fad1e
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
