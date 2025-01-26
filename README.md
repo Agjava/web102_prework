@@ -26,6 +26,12 @@ Here's a walkthrough of implemented features:
 
 <img src='[h/Users/anveshgupta/Desktop/project.gif](https://github.com/user-attachments/assets/cb0dfe80-dd06-4f98-9588-6920e26fad1e)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
+https://github.com/user-attachments/assets/7d26c22c-d345-41a8-b3f9-08b09ae8a45a
+
+
+
+
 GIF created with Kap
 
 ## Notes
