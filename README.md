@@ -1,4 +1,4 @@
-# WEB102 Prework - *KrakenFund*
+#  *KrakenFund*
 
 Submitted by: Anvesh Gupta
 
